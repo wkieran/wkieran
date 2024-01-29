@@ -1,6 +1,6 @@
 Hi! I'm currently studying CompE at Purdue and teaching myself about analog synthesis.
 
-Website: wkieran.com
+Website: [wkieran.com](wkieran.com)
 
 <!--
 **wkieran/wkieran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
