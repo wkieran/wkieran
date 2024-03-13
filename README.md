@@ -1,4 +1,4 @@
-Hi! I'm currently studying CompE at Purdue and teaching myself about analog synthesis.
+Hi! I'm currently studying CompE at Purdue and teaching myself about analog synthesis, and embedded systems. I'm currently looking for my first full-time position!
 
 Website: [wkieran.com](wkieran.com)
 
